@@ -11,6 +11,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Data+Analyst+%E2%86%92+Data+Scientist+%E2%86%92+AI%2FML+Engineer"/>
 
 </p>
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:F75C7E&height=120&section=header"/>
+
+</p>
 
 ---
 
