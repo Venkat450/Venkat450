@@ -18,19 +18,22 @@ Data Analyst → Data Scientist → AI/ML Engineer
 
 # About Me
 
-My journey began with curiosity about how organizations use data to make decisions.
+My interest in data started with a simple question: how do numbers explain real-world behavior?
 
-I started in analytics, working with enterprise data warehouses, building dashboards, and transforming raw data into meaningful insights using Oracle BI tools and SQL.
+What began as dashboarding and analytics quickly turned into a deeper fascination with statistics — understanding distributions, relationships, and how patterns emerge from data.
 
-As I explored deeper, I transitioned into Data Science, applying machine learning models to uncover patterns and predictions.
+I became particularly drawn to statistical thinking, machine learning algorithms, and the mathematical foundations behind models. I enjoy exploring how algorithms learn from data, how models generalize, and why certain approaches perform better than others.
 
-Today, I focus on Artificial Intelligence and Machine Learning, exploring how modern AI systems can enhance data-driven decision making.
+Over time, this curiosity naturally led me from Data Analytics into Data Science, and now into Artificial Intelligence and Machine Learning.
 
-My profile reflects a continuous evolution:
+I’m especially interested in:
 
-Analytics → Machine Learning → Artificial Intelligence
+• Statistical modeling and inference  
+• Machine learning algorithms and optimization  
+• Understanding model behavior and performance  
+• Applying AI techniques to real-world data  
 
----
+For me, data science is not just about tools — it’s about understanding the logic behind the models and continuously improving how we learn from data.
 
 # Tech Stack
 
