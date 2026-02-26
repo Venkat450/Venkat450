@@ -80,17 +80,18 @@ LLM-Powered AI Agent
 
 ---
 
-# LeetCode Stats
 
-<!-- CHANGE USERNAME BELOW -->
+## LeetCode
 
 <p align="center">
 
-<img src="https://leetcode-stats.vercel.app/api?username=sreevenkat450&theme=dark&heatmap=true">
+<img src="https://leetcard.jacoblin.cool/sreevenkat450?ext=heatmap&theme=dark">
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Venkat450&theme=dark">
 
 </p>
-
----
 
 # Connect With Me
 
