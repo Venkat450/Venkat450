@@ -1,12 +1,16 @@
-<h1 align="center">Hi, I'm Sree Venkat</h1>
+<!-- ================= HERO ================= -->
+
+<h1 align="center">Sree Venkat</h1>
+
+<h3 align="center">
+
+Data Analyst → Data Scientist → AI/ML Engineer
+
+</h3>
 
 <p align="center">
-AI/ML Engineer • Data Scientist • Data Analyst
-</p>
 
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Data+Scientist;AI+%2F+ML+Engineer;Machine+Learning;Generative+AI;Python+%2B+SQL;Business+Intelligence&center=true&width=700&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Turning+Data+into+Intelligence;Machine+Learning+Engineer;Analytics+to+AI+Journey;SQL+Python+AI+Systems;Building+AI+Portfolio&center=true&width=750&height=50">
 
 </p>
 
@@ -14,132 +18,114 @@ AI/ML Engineer • Data Scientist • Data Analyst
 
 # About Me
 
-I began my career in Data Analytics, working with enterprise BI and warehousing tools to analyze data and support business reporting.
+My journey began with curiosity about how organizations use data to make decisions.
 
-During this phase, I worked with:
+I started in analytics, working with enterprise data warehouses, building dashboards, and transforming raw data into meaningful insights using Oracle BI tools and SQL.
 
-• Oracle Data Integrator (ODI)  
-• Oracle Business Intelligence Enterprise Edition (OBIEE)  
-• Oracle Analytics Cloud (OAC)  
-• Data Warehousing and Data Modeling  
+As I explored deeper, I transitioned into Data Science, applying machine learning models to uncover patterns and predictions.
 
-This experience helped me understand how large-scale data systems are structured and used for analytics.
+Today, I focus on Artificial Intelligence and Machine Learning, exploring how modern AI systems can enhance data-driven decision making.
 
-I then transitioned into Data Science, applying machine learning techniques to analyze patterns and build predictive models.
+My profile reflects a continuous evolution:
 
-Currently, I focus on AI and Machine Learning, exploring:
-
-• Machine Learning  
-• Large Language Models (LLMs)  
-• Retrieval-Augmented Generation (RAG)  
+Analytics → Machine Learning → Artificial Intelligence
 
 ---
 
-# Technical Skills
+# Tech Stack
 
-## Programming
+<!-- ANALYTICS -->
 
-Python  
-SQL  
+## Analytics & BI
 
----
+<p>
 
-## Data Analytics & Business Intelligence
+<img src="https://img.shields.io/badge/SQL-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel">
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge">
+<img src="https://img.shields.io/badge/Tableau-1F77B4?style=for-the-badge">
+<img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge">
 
-Power BI  
-Tableau  
-Looker  
-
-OBIEE  
-Oracle Analytics Cloud (OAC)  
-
-Dashboard Development  
-Exploratory Data Analysis  
+</p>
 
 ---
 
-## Data Warehousing & Modeling
+## Oracle BI & Warehousing
 
-Oracle Data Integrator (ODI)  
+<p>
 
-Data Warehousing Concepts  
+<img src="https://img.shields.io/badge/ODI-C74634?style=for-the-badge">
+<img src="https://img.shields.io/badge/OBIEE-BF360C?style=for-the-badge">
+<img src="https://img.shields.io/badge/OAC-E65100?style=for-the-badge">
 
-Data Modeling  
-
-ETL / ELT  
+</p>
 
 ---
 
 ## Machine Learning
 
-Scikit-learn  
-LightGBM  
-XGBoost  
+<p>
 
-Regression  
-Classification  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge">
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge">
+<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge">
+<img src="https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge">
 
----
-
-## AI / LLM
-
-Transformers  
-HuggingFace  
-
-LangChain  
-LangGraph  
-
-Vector Search  
-RAG  
+</p>
 
 ---
 
-## Tools
+## AI / LLM Engineering
 
-Git  
-Jupyter  
-Docker  
+<p>
 
----
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/LangGraph-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/CrewAI-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/LiteLLM-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/LangSmith-red?style=for-the-badge">
 
-# Featured Projects
-
-## Machine Learning Project
-
-Built machine learning models to analyze data and generate predictions.
-
-Tech:
-
-Python  
-Scikit-learn  
+</p>
 
 ---
 
-## Data Analysis and BI Dashboard
+## Cloud & Data Platforms
 
-Analyzed datasets and built dashboards to deliver insights.
+<p>
 
-Tech:
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge">
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge">
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge">
+<img src="https://img.shields.io/badge/Synapse-0078D4?style=for-the-badge">
 
-SQL  
-Power BI  
-Tableau  
-Looker  
-
----
-
-## AI / LLM Project
-
-Explored LLM-based applications and retrieval workflows.
-
-Tech:
-
-Python  
-LangChain  
+</p>
 
 ---
 
-# LeetCode Activity
+## MLOps & Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge">
+
+</p>
+
+---
+
+## Statistical & Research Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/PLINK-00599C?style=for-the-badge">
+<img src="https://img.shields.io/badge/JMP%20Pro-FF6F00?style=for-the-badge">
+
+</p>
+
+---
+
+# LeetCode
 
 <p align="center">
 
@@ -161,46 +147,26 @@ LangChain
 
 ---
 
-# Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat450&layout=compact&theme=radical">
-
-</p>
-
----
-
-# Contribution Graph
-
-<p align="center">
-
-<img src="https://github.com/Venkat450/Venkat450/blob/output/github-contribution-grid-snake.svg">
-
-</p>
-
----
-
 # Current Focus
 
 Machine Learning  
 
-Large Language Models  
+Artificial Intelligence  
 
-AI Applications  
+Building AI Projects  
 
 ---
 
 # Connect
 
-Email:
+Email
 
-sreevenkat450@gmail.com  
+sreevenkat450@gmail.com
 
-GitHub:
+GitHub
 
-https://github.com/Venkat450  
+github.com/Venkat450
 
-LeetCode:
+LeetCode
 
-https://leetcode.com/u/sreevenkat450/
+leetcode.com/u/sreevenkat450
