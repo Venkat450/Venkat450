@@ -86,7 +86,7 @@ LLM-Powered AI Agent
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo">
+<img src="https://leetcard.jacoblin.cool/sreevenkat450?theme=dark&font=Baloo">
 
 </p>
 
@@ -98,7 +98,7 @@ Email: sreevenkat450@gmail.com
 
 GitHub: https://github.com/Venkat450  
 
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
+LinkedIn: https://www.linkedin.com/in/sree-venkat-chintakula-658078211/
 
 ---
 
