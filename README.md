@@ -1,60 +1,167 @@
-<!-- Animated Intro -->
-<h1 align="center">
-Hi 👋, I'm Sree Venkat
-</h1>
+<!-- HEADER -->
+<h1 align="center">Sree Venkat</h1>
 
 <h3 align="center">
-AI Engineer | Data Scientist | Building Intelligent Systems with LLMs, Data, and Cloud
+AI Engineer • Data Scientist • Data Engineer  
+Building Production-Grade AI, LLM, and Data Systems
 </h3>
 
 ---
 
-<!-- Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Data+Scientist;LLM+Engineer;Building+RAG+Systems;GenAI+Developer&center=true&width=500&height=45">
+
+<img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;LLM+Engineer;Data+Scientist;RAG+Developer;Healthcare+AI;BigQuery+Data+Warehouse&center=true&width=600&height=45">
+
 </p>
 
 ---
 
 # About Me
 
-I design production-grade AI systems using:
+I design and deploy intelligent systems that transform large-scale data into real-world decision-making tools.
 
-• Large Language Models  
-• Retrieval-Augmented Generation  
-• AI Agents  
-• Data Warehouses  
+My work spans:
 
-My goal is to build intelligent systems that impact millions.
+• Production LLM Systems  
+• Retrieval-Augmented Generation (RAG)  
+• AI Agents (LangGraph, LangChain)  
+• Large-Scale Data Warehouses  
+• Machine Learning Pipelines  
+• Healthcare and Enterprise Analytics  
+
+I focus on building systems that are scalable, reliable, and impactful.
 
 ---
 
-# Tech Stack
+# Core Technical Expertise
 
-## AI / ML
+## Artificial Intelligence & Machine Learning
 
-![Python](https://img.shields.io/badge/Python-Expert-blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-red)
-![LLM](https://img.shields.io/badge/LLM-Engineer-orange)
+Python  
+PyTorch  
+TensorFlow  
+Scikit-learn  
+LightGBM  
+XGBoost  
+Transformers  
+HuggingFace  
+
+LLM Engineering  
+RAG Pipelines  
+Fine-Tuning (QLoRA, PEFT)  
+LangChain  
+LangGraph  
+
+---
 
 ## Data Engineering
 
-![BigQuery](https://img.shields.io/badge/BigQuery-Expert-blue)
-![Snowflake](https://img.shields.io/badge/Snowflake-Advanced-blue)
-![SQL](https://img.shields.io/badge/SQL-Expert-green)
+BigQuery  
+Snowflake  
+PostgreSQL  
+Data Warehousing  
+ETL / ELT Pipelines  
+Data Modeling  
+Airflow  
 
-## Cloud
+---
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![GCP](https://img.shields.io/badge/GCP-Cloud-blue)
+## Cloud & Infrastructure
+
+AWS  
+Google Cloud Platform  
+Azure  
+
+Docker  
+MLflow  
+
+---
+
+## Analytics & Visualization
+
+SQL  
+Power BI  
+Tableau  
+Looker  
+
+---
+
+## AI Stack
+
+Vector Databases  
+FAISS  
+Pinecone  
+OpenSearch  
+
+Embeddings  
+Semantic Search  
 
 ---
 
 # Featured Projects
 
-Production-Grade RAG System  
-Healthcare Data Warehouse  
-LLM-Powered AI Agent  
+## AI-Powered Document Intelligence System
+
+Production-grade RAG pipeline enabling semantic search across enterprise knowledge bases.
+
+Tech:
+
+LLM  
+LangChain  
+Vector Databases  
+
+---
+
+## Healthcare Workforce Data Warehouse
+
+Architected BigQuery warehouse integrating licensing, workforce, and facility data.
+
+Impact:
+
+Enabled statewide analytics for healthcare workforce planning.
+
+Tech:
+
+BigQuery  
+SQL  
+Data Modeling  
+
+---
+
+## Hospital No-Show Prediction System
+
+Built ML pipeline predicting patient no-shows using LightGBM.
+
+Impact:
+
+Improved operational planning.
+
+Tech:
+
+Python  
+LightGBM  
+MLflow  
+
+---
+
+## Supply Chain Analytics Dashboard
+
+Identified logistics inefficiencies and cost optimization opportunities.
+
+Tech:
+
+Tableau  
+SQL  
+
+---
+
+# LeetCode Activity
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/sreevenkat450?ext=heatmap&theme=dark">
+
+</p>
 
 ---
 
@@ -62,7 +169,7 @@ LLM-Powered AI Agent
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Venkat450&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=Venkat450&show_icons=true&theme=radical&rank_icon=github">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Venkat450&theme=radical">
 
@@ -80,26 +187,25 @@ LLM-Powered AI Agent
 
 ---
 
+# Current Focus
 
-## LeetCode
+Building:
 
-<p align="center">
+Production AI Agents  
+Advanced RAG Systems  
+LLM Applications  
 
-<img src="https://leetcard.jacoblin.cool/sreevenkat450?ext=heatmap&theme=dark">
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Venkat450&theme=dark">
-
-</p>
+---
 
 # Connect With Me
 
 Email: sreevenkat450@gmail.com  
 
-GitHub: https://github.com/Venkat450  
+GitHub:  
+https://github.com/Venkat450  
 
-LinkedIn: https://www.linkedin.com/in/sree-venkat-chintakula-658078211/
+LeetCode:  
+https://leetcode.com/u/sreevenkat450/  
 
 ---
 
