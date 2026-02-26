@@ -2,13 +2,13 @@
 
 <h1 align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=38&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&height=70&lines=Sree+Venkat;Data+Analyst;Data+Scientist;AI%2FML+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Sree+Venkat"/>
 
 </h1>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Statistics+Enthusiast;Machine+Learning+Explorer;Algorithm+Thinker;AI+Builder"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Data+Analyst+%E2%86%92+Data+Scientist+%E2%86%92+AI%2FML+Engineer"/>
 
 </p>
 
