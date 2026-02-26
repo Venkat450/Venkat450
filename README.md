@@ -1,16 +1,14 @@
 <!-- ================= HERO ================= -->
 
-<h1 align="center">Sree Venkat</h1>
+<h1 align="center">
 
-<h3 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=38&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&height=70&lines=Sree+Venkat;Data+Analyst;Data+Scientist;AI%2FML+Engineer"/>
 
-Data Analyst → Data Scientist → AI/ML Engineer
-
-</h3>
+</h1>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=Turning+Data+into+Intelligence;Machine+Learning+Engineer;Analytics+to+AI+Journey;SQL+Python+AI+Systems;Building+AI+Portfolio&center=true&width=750&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Statistics+Enthusiast;Machine+Learning+Explorer;Algorithm+Thinker;AI+Builder"/>
 
 </p>
 
