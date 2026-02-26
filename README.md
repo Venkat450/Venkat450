@@ -135,17 +135,21 @@ Analytics → Machine Learning → Artificial Intelligence
 
 ---
 
-# GitHub Stats
+## GitHub Activity Dashboard
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Venkat450&show_icons=true&theme=radical">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Venkat450&show_icons=true&theme=radical&border_radius=12">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Venkat450&theme=radical">
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Venkat450&theme=radical&border_radius=12">
 
 </p>
 
----
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat450&layout=compact&theme=radical&border_radius=12">
+
+</p>
 
 # Current Focus
 
