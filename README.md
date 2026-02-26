@@ -1,16 +1,14 @@
-<!-- HEADER -->
+<!-- ================= HEADER ================= -->
+
 <h1 align="center">Sree Venkat</h1>
 
-<h3 align="center">
-AI Engineer • Data Scientist • Data Engineer  
-Building Production-Grade AI, LLM, and Data Systems
-</h3>
-
----
+<p align="center">
+AI Engineer • Data Scientist • LLM Engineer
+</p>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;LLM+Engineer;Data+Scientist;RAG+Developer;Healthcare+AI;BigQuery+Data+Warehouse&center=true&width=600&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Building+Production+AI+Systems;LLM+Engineer;RAG+Systems;Data+Engineer;Healthcare+AI;BigQuery+Data+Warehousing&center=true&width=650&height=45">
 
 </p>
 
@@ -18,24 +16,20 @@ Building Production-Grade AI, LLM, and Data Systems
 
 # About Me
 
-I design and deploy intelligent systems that transform large-scale data into real-world decision-making tools.
+I build production-grade AI systems combining:
 
-My work spans:
+• Large Language Models  
+• Retrieval-Augmented Generation  
+• Data Warehousing  
+• Machine Learning  
 
-• Production LLM Systems  
-• Retrieval-Augmented Generation (RAG)  
-• AI Agents (LangGraph, LangChain)  
-• Large-Scale Data Warehouses  
-• Machine Learning Pipelines  
-• Healthcare and Enterprise Analytics  
-
-I focus on building systems that are scalable, reliable, and impactful.
+My work focuses on deploying intelligent systems that operate on real-world data at scale.
 
 ---
 
-# Core Technical Expertise
+# Tech Stack
 
-## Artificial Intelligence & Machine Learning
+## AI / Machine Learning
 
 Python  
 PyTorch  
@@ -43,12 +37,12 @@ TensorFlow
 Scikit-learn  
 LightGBM  
 XGBoost  
+
 Transformers  
 HuggingFace  
+QLoRA  
+PEFT  
 
-LLM Engineering  
-RAG Pipelines  
-Fine-Tuning (QLoRA, PEFT)  
 LangChain  
 LangGraph  
 
@@ -59,17 +53,25 @@ LangGraph
 BigQuery  
 Snowflake  
 PostgreSQL  
-Data Warehousing  
-ETL / ELT Pipelines  
+
+ETL / ELT  
 Data Modeling  
-Airflow  
+Warehouse Architecture  
 
 ---
 
-## Cloud & Infrastructure
+## Vector Databases
+
+FAISS  
+Pinecone  
+OpenSearch  
+
+---
+
+## Cloud
 
 AWS  
-Google Cloud Platform  
+GCP  
 Azure  
 
 Docker  
@@ -77,7 +79,7 @@ MLflow
 
 ---
 
-## Analytics & Visualization
+## Analytics
 
 SQL  
 Power BI  
@@ -86,72 +88,29 @@ Looker
 
 ---
 
-## AI Stack
-
-Vector Databases  
-FAISS  
-Pinecone  
-OpenSearch  
-
-Embeddings  
-Semantic Search  
-
----
-
 # Featured Projects
 
-## AI-Powered Document Intelligence System
+## Production RAG System
 
-Production-grade RAG pipeline enabling semantic search across enterprise knowledge bases.
-
-Tech:
-
-LLM  
-LangChain  
-Vector Databases  
+Enterprise document intelligence using vector search and LLM reasoning.
 
 ---
 
 ## Healthcare Workforce Data Warehouse
 
-Architected BigQuery warehouse integrating licensing, workforce, and facility data.
-
-Impact:
-
-Enabled statewide analytics for healthcare workforce planning.
-
-Tech:
-
-BigQuery  
-SQL  
-Data Modeling  
+Architected statewide workforce warehouse using BigQuery.
 
 ---
 
-## Hospital No-Show Prediction System
+## ML Prediction Pipeline
 
-Built ML pipeline predicting patient no-shows using LightGBM.
-
-Impact:
-
-Improved operational planning.
-
-Tech:
-
-Python  
-LightGBM  
-MLflow  
+LightGBM pipeline predicting hospital operational outcomes.
 
 ---
 
-## Supply Chain Analytics Dashboard
+## Supply Chain Analytics
 
-Identified logistics inefficiencies and cost optimization opportunities.
-
-Tech:
-
-Tableau  
-SQL  
+Dashboard identifying operational inefficiencies.
 
 ---
 
@@ -169,7 +128,7 @@ SQL
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Venkat450&show_icons=true&theme=radical&rank_icon=github">
+<img src="https://github-readme-stats.vercel.app/api?username=Venkat450&show_icons=true&theme=radical">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Venkat450&theme=radical">
 
@@ -177,7 +136,7 @@ SQL
 
 ---
 
-# Most Used Languages
+# Languages
 
 <p align="center">
 
@@ -187,29 +146,38 @@ SQL
 
 ---
 
+# Contribution Graph
+
+<p align="center">
+
+<img src="https://github.com/Venkat450/Venkat450/blob/output/github-contribution-grid-snake.svg">
+
+</p>
+
+---
+
 # Current Focus
 
 Building:
 
-Production AI Agents  
-Advanced RAG Systems  
-LLM Applications  
+• Autonomous AI Agents  
+• Advanced RAG Systems  
+• Production LLM Applications  
 
 ---
 
-# Connect With Me
+# Connect
 
-Email: sreevenkat450@gmail.com  
+Email:  
+sreevenkat450@gmail.com  
 
 GitHub:  
 https://github.com/Venkat450  
 
 LeetCode:  
-https://leetcode.com/u/sreevenkat450/  
+https://leetcode.com/u/sreevenkat450/
 
 ---
-
-# Profile Views
 
 <p align="center">
 
