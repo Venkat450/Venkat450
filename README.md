@@ -95,6 +95,16 @@ For me, data science is not just about tools — it’s about understanding the 
 
 ---
 
+## Model Serving & APIs
+
+<p>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge">
+
+</p>
+
+---
+
 ## Cloud & Data Platforms
 
 <p>
@@ -113,6 +123,7 @@ For me, data science is not just about tools — it’s about understanding the 
 
 <p>
 
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge">
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge">
 
@@ -130,6 +141,8 @@ For me, data science is not just about tools — it’s about understanding the 
 </p>
 
 ---
+
+
 
 # LeetCode
 
