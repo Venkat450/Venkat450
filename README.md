@@ -86,7 +86,7 @@ LLM-Powered AI Agent
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/sreevenkat450?theme=dark&font=Baloo">
+[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
 
 </p>
 
