@@ -40,23 +40,117 @@ For me, data science is not just about tools — it’s about understanding the 
 
 # Tech Stack
 
-<!-- ANALYTICS -->
+# Tech Stack
 
-## Analytics & BI
+---
+
+## Data Analytics & Business Intelligence
 
 <p>
 
-<img src="https://img.shields.io/badge/SQL-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel">
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge">
-<img src="https://img.shields.io/badge/Tableau-1F77B4?style=for-the-badge">
+<img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Tableau-1F77B4?style=for-the-badge&logo=tableau&logoColor=white">
 <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge">
 
 </p>
 
+Core strengths: data querying, dashboard development, KPI analysis, and business reporting.
+
 ---
 
-## Oracle BI & Warehousing
+## Python Data Science Stack
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/Seaborn-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+
+</p>
+
+Used for data cleaning, exploratory analysis, statistical modeling, and visualization.
+
+---
+
+## Machine Learning & Statistical Modeling
+
+<p>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge">
+<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+
+</p>
+
+**Algorithms and methods:**
+
+- Linear & Logistic Regression  
+- Decision Trees & Random Forest  
+- Gradient Boosting (XGBoost, LightGBM)  
+- Support Vector Machines  
+- k-Nearest Neighbors  
+- Clustering (K-Means, Hierarchical, DBSCAN)  
+- Dimensionality Reduction (PCA, SVD)  
+- Model validation, feature engineering, and evaluation  
+
+Strong foundation in statistical reasoning, model interpretation, and performance analysis.
+
+---
+
+## Natural Language Processing & Transformers
+
+<p>
+
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+<img src="https://img.shields.io/badge/Transformers-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge">
+<img src="https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge">
+
+</p>
+
+Experience working with modern NLP workflows and transformer-based models.
+
+---
+
+## Model Deployment, Experiment Tracking & MLOps
+
+<p>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge">
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge">
+<img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+
+</p>
+
+Used for experiment tracking, model versioning, and serving machine learning models.
+
+---
+
+## Cloud Platforms & Data Warehousing
+
+<p>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge">
+
+</p>
+
+Understanding of cloud-based analytics, data storage, and scalable processing.
+
+---
+
+## Enterprise BI & Data Warehousing Tools
 
 <p>
 
@@ -66,79 +160,20 @@ For me, data science is not just about tools — it’s about understanding the 
 
 </p>
 
----
-
-## Machine Learning
-
-<p>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge">
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge">
-<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge">
-<img src="https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge">
-
-</p>
+Experience working with enterprise data pipelines, reporting systems, and warehouse environments.
 
 ---
 
-## AI / LLM Engineering
+## Statistical & Analytical Tools
 
 <p>
 
-<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/LangGraph-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/CrewAI-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/LiteLLM-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/LangSmith-red?style=for-the-badge">
-
-</p>
-
----
-
-## Model Serving & APIs
-
-<p>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge">
-
-</p>
-
----
-
-## Cloud & Data Platforms
-
-<p>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge">
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge">
-<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge">
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge">
-<img src="https://img.shields.io/badge/Synapse-0078D4?style=for-the-badge">
-
-</p>
-
----
-
-## MLOps & Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge">
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge">
-
-</p>
-
----
-
-## Statistical & Research Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/PLINK-00599C?style=for-the-badge">
 <img src="https://img.shields.io/badge/JMP%20Pro-FF6F00?style=for-the-badge">
+<img src="https://img.shields.io/badge/PLINK-00599C?style=for-the-badge">
 
 </p>
+
+Applied for statistical analysis, research workflows, and data exploration.
 
 ---
 
