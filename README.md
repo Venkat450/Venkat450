@@ -1,14 +1,12 @@
-<!-- HERO -->
-
 <h1 align="center">Hi, I'm Sree Venkat</h1>
 
 <p align="center">
-Data Analyst • Data Scientist • AI/ML Engineer
+AI/ML Engineer • Data Scientist • Data Analyst
 </p>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Data+Scientist;AI+%2F+ML+Engineer;Machine+Learning;Generative+AI;LLMs;Python+%2B+SQL&center=true&width=650&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Data+Scientist;AI+%2F+ML+Engineer;Machine+Learning;Generative+AI;Python+%2B+SQL;Business+Intelligence&center=true&width=700&height=45">
 
 </p>
 
@@ -16,17 +14,24 @@ Data Analyst • Data Scientist • AI/ML Engineer
 
 # About Me
 
-My journey started in Data Analytics, where I developed strong foundations in SQL, dashboards, and business insights.
+I began my career in Data Analytics, working with enterprise BI and warehousing tools to analyze data and support business reporting.
 
-I then transitioned into Data Science, working with machine learning models to analyze patterns and make predictions.
+During this phase, I worked with:
+
+• Oracle Data Integrator (ODI)  
+• Oracle Business Intelligence Enterprise Edition (OBIEE)  
+• Oracle Analytics Cloud (OAC)  
+• Data Warehousing and Data Modeling  
+
+This experience helped me understand how large-scale data systems are structured and used for analytics.
+
+I then transitioned into Data Science, applying machine learning techniques to analyze patterns and build predictive models.
 
 Currently, I focus on AI and Machine Learning, exploring:
 
+• Machine Learning  
 • Large Language Models (LLMs)  
 • Retrieval-Augmented Generation (RAG)  
-• Machine Learning Pipelines  
-
-My goal is to apply AI and machine learning to real-world problems.
 
 ---
 
@@ -39,15 +44,29 @@ SQL
 
 ---
 
-## Data Analytics
+## Data Analytics & Business Intelligence
 
 Power BI  
 Tableau  
 Looker  
 
-Data Analysis  
+OBIEE  
+Oracle Analytics Cloud (OAC)  
+
 Dashboard Development  
 Exploratory Data Analysis  
+
+---
+
+## Data Warehousing & Modeling
+
+Oracle Data Integrator (ODI)  
+
+Data Warehousing Concepts  
+
+Data Modeling  
+
+ETL / ELT  
 
 ---
 
@@ -85,9 +104,9 @@ Docker
 
 # Featured Projects
 
-## Machine Learning Prediction Project
+## Machine Learning Project
 
-Built ML models to analyze patterns and make predictions.
+Built machine learning models to analyze data and generate predictions.
 
 Tech:
 
@@ -96,9 +115,9 @@ Scikit-learn
 
 ---
 
-## Data Analysis and Dashboard Project
+## Data Analysis and BI Dashboard
 
-Analyzed datasets and built dashboards to provide insights.
+Analyzed datasets and built dashboards to deliver insights.
 
 Tech:
 
@@ -111,7 +130,7 @@ Looker
 
 ## AI / LLM Project
 
-Explored LLM-based workflows and retrieval-based applications.
+Explored LLM-based applications and retrieval workflows.
 
 Tech:
 
@@ -142,7 +161,7 @@ LangChain
 
 ---
 
-# Languages
+# Most Used Languages
 
 <p align="center">
 
@@ -162,15 +181,25 @@ LangChain
 
 ---
 
+# Current Focus
+
+Machine Learning  
+
+Large Language Models  
+
+AI Applications  
+
+---
+
 # Connect
 
 Email:
 
-sreevenkat450@gmail.com
+sreevenkat450@gmail.com  
 
 GitHub:
 
-https://github.com/Venkat450/
+https://github.com/Venkat450  
 
 LeetCode:
 
