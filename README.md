@@ -38,7 +38,7 @@ I’m especially interested in:
 
 For me, data science is not just about tools — it’s about understanding the logic behind the models and continuously improving how we learn from data.
 
-# Tech Stack
+
 
 # Tech Stack
 
