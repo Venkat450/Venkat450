@@ -8,9 +8,10 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Data+Analyst+%E2%86%92+Data+Scientist+%E2%86%92+AI%2FML+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Exploring+Data+%E2%86%92+Understanding+Models+%E2%86%92+Building+AI+Systems"/>
 
 </p>
+
 <p align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:F75C7E&height=120&section=header"/>
@@ -21,24 +22,40 @@
 
 # About Me
 
-My interest in data started with a simple question: how do numbers explain real-world behavior?
+My curiosity about data started with a simple question: **how do numbers explain real-world behavior?**
 
-What began as dashboarding and analytics quickly turned into a deeper fascination with statistics — understanding distributions, relationships, and how patterns emerge from data.
+What began with dashboards and exploratory analysis gradually turned into a deeper fascination with **statistics and mathematical reasoning** — understanding distributions, relationships between variables, and how patterns emerge from real data.
 
-I became particularly drawn to statistical thinking, machine learning algorithms, and the mathematical foundations behind models. I enjoy exploring how algorithms learn from data, how models generalize, and why certain approaches perform better than others.
+Over time I became increasingly interested in **how machines learn from data**. I enjoy exploring how algorithms identify patterns, how features influence predictions, and how models generalize beyond the datasets they were trained on.
 
-Over time, this curiosity naturally led me from Data Analytics into Data Science, and now into Artificial Intelligence and Machine Learning.
+This curiosity naturally led me from **data analytics into machine learning**, and now toward **artificial intelligence systems that can learn, reason, and assist with complex problems.**
 
-I’m especially interested in:
+Today my interests revolve around:
 
-• Statistical modeling and inference  
-• Machine learning algorithms and optimization  
-• Understanding model behavior and performance  
-• Applying AI techniques to real-world data  
+• discovering meaningful patterns hidden inside real-world datasets  
+• understanding the statistical foundations behind machine learning models  
+• experimenting with algorithms and improving model performance  
+• building intelligent systems that transform data into actionable insights  
 
-For me, data science is not just about tools — it’s about understanding the logic behind the models and continuously improving how we learn from data.
+For me, data science is not just about tools — it is about **understanding how information becomes knowledge, and how knowledge becomes intelligent systems.**
 
+---
 
+# Learning Journey
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data%20Analytics-Understanding%20Data-00F7FF?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Statistics-Modeling%20Uncertainty-8A2BE2?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-Learning%20Patterns-FF6F61?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Building%20Systems-00C9A7?style=for-the-badge">
+
+</p>
+
+---
 
 # Tech Stack
 
@@ -177,7 +194,23 @@ Applied for statistical analysis, research workflows, and data exploration.
 
 ---
 
+# GitHub Activity
 
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Venkat450&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat450&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Venkat450&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
 
 # LeetCode
 
@@ -188,7 +221,6 @@ Applied for statistical analysis, research workflows, and data exploration.
 </p>
 
 ---
-
 
 # Current Focus
 
@@ -202,14 +234,19 @@ Building AI Projects
 
 # Connect
 
-Email
+Email  
+sreevenkat450@gmail.com  
 
-sreevenkat450@gmail.com
+GitHub  
+github.com/Venkat450  
 
-GitHub
+LeetCode  
+leetcode.com/u/sreevenkat450  
 
-github.com/Venkat450
+---
 
-LeetCode
+<p align="center">
 
-leetcode.com/u/sreevenkat450
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F75C7E,100:00F7FF&height=120&section=footer"/>
+
+</p>
